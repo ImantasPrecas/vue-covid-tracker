@@ -1,19 +1,15 @@
-# vue-covid-tracker
 
-## Project setup
-```
-npm install
-```
+# Vue Tailwind 
+# Covid-19 tracker app
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Learning project to get better at Vue.js and Tailwind
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Project features
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+-   Vue.js
+-   Tailwindcss
+-   Moment
+
+## Authors
+
+Imantas: [Github](https://github.com/ImantasPrecas)
